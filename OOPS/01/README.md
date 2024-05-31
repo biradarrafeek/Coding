@@ -69,5 +69,5 @@ This Java application is designed to manage a payroll system. It allows for **ad
 <br>
 
 
-_**Hit the Star button**_
+<center><b><i>Hit the Star button</i></b></center>
 
